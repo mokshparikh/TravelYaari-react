@@ -9,13 +9,11 @@
    ![](https://img.shields.io/github/repo-size/shsarv/TravelYaari-react)
    ![](https://img.shields.io/tokei/lines/github/shsarv/TravelYaari-react?color=orange&logoColor=blue&style=flat-circle)
 
-This Project is live at --------> **[https://travelyaari.herokuapp.com](https://travelyaari.herokuapp.com)**
-
 
 <hr />
 
       
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/mokshparikh/TravelYaari-react).
 
 <details><summary>Available Scripts</summary>
 
@@ -32,7 +30,7 @@ You will also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+See the section about [running tests](https://github.com/mokshparikh/TravelYaari-react) for more information.
 
 ### `npm run build`
 
@@ -40,7 +38,7 @@ Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information. 
+See the section about [deployment](https://github.com/mokshparikh/TravelYaari-react) for more information. 
 </details>    
 
 <strong>Overview: -</strong>
@@ -87,7 +85,7 @@ Our mission is to craft an exceptional, cutting-edge travel website using advanc
   2. Clone the repository by entering `$ git clone https://github.com/shsarv/TravelYaari-react.git `.
   3. Ensure that `NodeJS` and `npm` are installed on the system.
   4. change the diectory to repository name using  `$ cd TravelYaari-react`.
-  4. Create a `.env` file and write `REACT_APP_API_URL='your backend api url'`. look for backend of the project [here](https://github.com/shsarv/TravelYaari-api).
+  4. Create a `.env` file and write `REACT_APP_API_URL='your backend api url'`. look for backend of the project [here](https://github.com/mokshparikh/TravelYaari-react).
   5. install the dependencies by executing the follwing command: `$ npm install` or `$ npm install --openssl-legacy-provide` for base support.
   6. To run the React project. execute `$npm start`. and it will point to the `localhost` server with the port `3000`.
   8. Enter the `IP Address: http://localhost:3000` on a web browser and use the application. make sure that your backend api is running.
@@ -107,7 +105,7 @@ Our mission is to craft an exceptional, cutting-edge travel website using advanc
 
 ### Dependencies 
 
-The following dependencies can be found in [package.json](https://github.com/shsarv/TravelYaari-react/blob/master/package.json):
+The following dependencies can be found in [package.json](https://github.com/mokshparikh/TravelYaari-react/blob/main/package.json):
       
 
 
