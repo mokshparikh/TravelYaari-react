@@ -105,7 +105,7 @@ Our mission is to craft an exceptional, cutting-edge travel website using advanc
 
 -----------------------------
 
-### Dependencies <img src="https://www.flaticon.com/svg/static/icons/svg/2621/2621122.svg" width="24px">
+### Dependencies 
 
 The following dependencies can be found in [package.json](https://github.com/shsarv/TravelYaari-react/blob/master/package.json):
       
