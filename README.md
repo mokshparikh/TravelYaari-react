@@ -5,9 +5,6 @@
    ![](https://img.shields.io/badge/React-17.0.1-87CEEB?style=flat-circle&logo=react&logoColor=309698)
    ![](https://img.shields.io/badge/NodeJS-16.0.0-009900?style=flat-circle&logo=node.js)
    ![](https://img.shields.io/npm/v/npm.svg?logo=npm)
-   ![](https://img.shields.io/github/license/shsarv/TravelYaari-react?style=flat-circle)
-   ![](https://img.shields.io/github/repo-size/shsarv/TravelYaari-react)
-   ![](https://img.shields.io/tokei/lines/github/shsarv/TravelYaari-react?color=orange&logoColor=blue&style=flat-circle)
 
 
 <hr />
