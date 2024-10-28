@@ -56,7 +56,7 @@ Travel enthusiasts worldwide face the daunting challenge of discovering the perf
 Our mission is to craft an exceptional, cutting-edge travel website using advanced MERN STACK technologies, delivering: Unforgettable, on-time, and budget-friendly excursions that exceed your wildest dreams Enthusiastically satisfied customers, every time, without exception
 
 
-<strong>FEATURES:-</strong><img src="https://www.flaticon.com/svg/static/icons/svg/2643/2643513.svg" width="24px">
+<strong>FEATURES:-</strong>
 
 - Wishlist Cart: Collect and cherish your favorite destinations
 - Place Pagination: Effortlessly explore, discover, and get lost in new places
